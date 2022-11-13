@@ -14,9 +14,71 @@ Calcular porcentajes de error de las leyes de Kirchhoff mediante fórmulas de me
 
 ### 2. MARCO TEORICO
 
-![]()
+**Ley de Voltajes de Kirchhoff**
+
+![](https://github.com/melaniegutierrez/LABORATORIO-1/blob/main/LEY%20DE%20VOLTAJE%20DE%20KIRCHHOFF.jpeg)
+
+**Ley de Corriente de Kirchhoff**
+
+![](https://github.com/melaniegutierrez/LABORATORIO-1/blob/main/LEY%20DE%20LAS%20CORRIENTES%20DE%20KIRCHHOFF.jpeg)
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
+
+**Voltajes**
+
+VR1
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/vr1.png)
+
+VR2
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/vr2.png)
+
+VR3
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/vr3.png)
+
+VR4
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/vr4.png)
+
+VR5
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/vr5.png)
+
+**Corriente**
+
+IR1
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/ir1.png)
+
+IR2
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/ir2.png)
+
+IR3
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/ir3.png)
+
+IR4
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/ir4.png)
+
+IR5
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/ir5.png)
+
+Cálculo teorico 
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/C1.png)
+
+Cálculo de voltajes
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/C2.png)
+
+Cálculo de corriente
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/C3.png)
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -62,6 +124,23 @@ Calcular porcentajes de error de las leyes de Kirchhoff mediante fórmulas de me
 |  ΣI (A) |0 mA| 0 mA|0 mA| 0 mA|0.09 mA|0.09 mA|0 mA| 0 mA|0 mA| 0 mA|
 
 **Calculo de errores de las mediciones**
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/e1.png)
+
+**Cálculo de error de las trayectorias**
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/e2.png)
+
+**Cálculo de error en nodos**
+
+![](https://github.com/melaniegutierrez/CAP-LAB-1/blob/main/e3.png)
+
+El porcentaje de error, no se muestra por encima del 2%, es decir, los valores calculados son casi exactos a los simulados.
+
+### 5. CONCLUSIONES
+
+### 6. BIBLIOGRAFIA
+
 
 
 
