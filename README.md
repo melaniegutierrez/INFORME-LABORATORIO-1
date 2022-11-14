@@ -137,11 +137,17 @@ Cálculo de corriente
 
 El porcentaje de error, no se muestra por encima del 2%, es decir, los valores calculados son casi exactos a los simulados.
 
-### 5. CONCLUSIONES
+### 5. VIDEO
 
-### 6. BIBLIOGRAFIA
+### 6. CONCLUSIONES
 
+Los cálculos teóricos sirven de apoyo para tener una idea sistemática del cuircuito y sus medidas, las leyes de Kirchhoff son de mucha ayuda para entender el sistema de circuitos, sus consumos de voltaje y las trayectorias de la corriente dentro del circuito.
 
+### 7. BIBLIOGRAFIA
+
+Iván Cuadros Acosta. (2016, March 19). LEYES DE KIRCHHOFF - Geek Electrónica - Electrónica. Geek Electrónica. https://geekelectronica.com/leyes-de-kirchhoff/
+
+‌
 
 
 
