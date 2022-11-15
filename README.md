@@ -145,6 +145,8 @@ Los cálculos teóricos sirven de apoyo para tener una idea sistemática del cui
 
 Mediante la simulación de un circuito resistivo mixto en la aplicación de Tinkercad, se logró demostrar el cumplimiento de la ley de voltaje de Kirchhoff, el cual propone que la suma de todas las caídas de voltaje localizadas en una trayectoria cerrada única es igual al voltaje de fuente.
 
+Al calcular y simular los valores, del amperímetro y multímetro, su porcentaje de error se muestra mínimo, siendo los simulados mas exactos que los calculados, ya que cuenta con una fuente de voltaje ideal, es decir, mas precision, en las mediciones.
+
 ### 7. BIBLIOGRAFIA
 
 Iván Cuadros Acosta. (2016, March 19). LEYES DE KIRCHHOFF - Geek Electrónica - Electrónica. Geek Electrónica. https://geekelectronica.com/leyes-de-kirchhoff/
