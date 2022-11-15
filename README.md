@@ -139,6 +139,8 @@ El porcentaje de error, no se muestra por encima del 2%, es decir, los valores c
 
 ### 5. VIDEO
 
+Link: https://youtu.be/ywZ62Gw2ga0
+
 ### 6. CONCLUSIONES
 
 Los cálculos teóricos sirven de apoyo para tener una idea sistemática del cuircuito y sus medidas, las leyes de Kirchhoff son de mucha ayuda para entender el sistema de circuitos, sus consumos de voltaje y las trayectorias de la corriente dentro del circuito.
@@ -150,6 +152,8 @@ Al calcular y simular los valores, del amperímetro y multímetro, su porcentaje
 ### 7. BIBLIOGRAFIA
 
 Iván Cuadros Acosta. (2016, March 19). LEYES DE KIRCHHOFF - Geek Electrónica - Electrónica. Geek Electrónica. https://geekelectronica.com/leyes-de-kirchhoff/
+
+Floyd, T. L. (2007). Principios de circuitos eléctricos (8a ed). Pearson Educación.
 
 ‌
 
