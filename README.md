@@ -143,6 +143,8 @@ El porcentaje de error, no se muestra por encima del 2%, es decir, los valores c
 
 Los cálculos teóricos sirven de apoyo para tener una idea sistemática del cuircuito y sus medidas, las leyes de Kirchhoff son de mucha ayuda para entender el sistema de circuitos, sus consumos de voltaje y las trayectorias de la corriente dentro del circuito.
 
+Mediante la simulación de un circuito resistivo mixto en la aplicación de Tinkercad, se logró demostrar el cumplimiento de la ley de voltaje de Kirchhoff, el cual propone que la suma de todas las caídas de voltaje localizadas en una trayectoria cerrada única es igual al voltaje de fuente.
+
 ### 7. BIBLIOGRAFIA
 
 Iván Cuadros Acosta. (2016, March 19). LEYES DE KIRCHHOFF - Geek Electrónica - Electrónica. Geek Electrónica. https://geekelectronica.com/leyes-de-kirchhoff/
